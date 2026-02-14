@@ -13,7 +13,7 @@ crsAcctHolderTypes = [
   "CRS101", # Passive NFE with >=1 controlling person that is a Reportable Person
   "CRS102", # CRS Reportable Person
   "CRS103", # Passive NFE that is a CRS Reportable Person
-]
+] 
 
 # Controlling Person Type (CrsCtrlgPersonTypeEnumType)
 CrsCtrlgPersonTypeEnumType = [

@@ -8,7 +8,7 @@ from pydantic_core.core_schema import ValidationInfo
 ValidatorFn = Callable[[Any, ValidationInfo], str]
 AllowedSupplier = Callable[[], set[str]]
 
-
+ 
 # ----------------------------
 # Small shared helpers
 # ----------------------------

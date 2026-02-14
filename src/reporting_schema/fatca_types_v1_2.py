@@ -20,7 +20,7 @@ class FatcaAcctPoolReportTypeEnumType(Enum):
     :cvar FATCA205: Recalcitrant account holders that are US persons
     :cvar FATCA206: Recalcitrant account holders that are passive NFFEs
     """
-
+ 
     FATCA201 = "FATCA201"
     FATCA202 = "FATCA202"
     FATCA203 = "FATCA203"

@@ -8,7 +8,7 @@ try:
     import tomllib as tomli  # Python 3.11+
 except ModuleNotFoundError:
     import tomli  # Python <= 3.10
-
+ 
 
 CONFIG_PATH = Path(r"C:\Users\peter\Desktop\Internal Dev\CRS\CRS-Generator\src\config\CRS_validation.toml")
 CRS_COUNTRYCODE_KEY = "CrsCountryCodeType"

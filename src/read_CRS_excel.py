@@ -13,7 +13,7 @@ class CRS_Excel:
         self.filepath = self.read_crs_xl(filepath)
         self.filepath_error = self.filepath.replace
 
-        self.msg_spec 
+        self.msg_spec  
 
 
     def read_crs_xl(self, filepath: str,) -> str:

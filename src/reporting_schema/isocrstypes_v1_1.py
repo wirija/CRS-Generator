@@ -664,7 +664,7 @@ class CurrCodeType(Enum):
     :cvar SEK: Swedish Krona: SWEDEN
     :cvar SGD: Singapore Dollar: SINGAPORE
     :cvar SHP: Saint Helena Pound: SAINT HELENA, ASCENSION AND TRISTAN
-        DA CUNHA
+        DA CUNHA 
     :cvar SLL: Leone: SIERRA LEONE
     :cvar SOS: Somali Shilling: SOMALIA
     :cvar SRD: Surinam Dollar: SURINAME

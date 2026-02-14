@@ -15,7 +15,7 @@ from src.reporting_schema.oecdcrstypes_v5_0 import (
 
 __NAMESPACE__ = "urn:oecd:ties:commontypesfatcacrs:v2"
 
-
+ 
 class AcctNumberTypeEnumType(Enum):
     """
     Account Number Type.

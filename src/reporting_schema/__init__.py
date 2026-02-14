@@ -8,7 +8,7 @@ from src.reporting_schema.common_types_fatca_crs_v2_0 import (
 )
 from src.reporting_schema.crs_xml_v2_0 import (
     AccountHolderType,
-    ControllingPersonType,
+    ControllingPersonType, 
     CorrectableAccountReportType,
     CorrectableOrganisationPartyType,
     CrsAcctHolderTypeEnumType,

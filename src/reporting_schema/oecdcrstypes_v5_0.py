@@ -19,7 +19,7 @@ class OecddocTypeIndicEnumType(Enum):
     :cvar OECD12: Corrected Test Data
     :cvar OECD13: Deletion of Test Data
     """
-
+ 
     OECD0 = "OECD0"
     OECD1 = "OECD1"
     OECD2 = "OECD2"

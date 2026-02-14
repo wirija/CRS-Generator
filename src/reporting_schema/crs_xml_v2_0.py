@@ -17,7 +17,7 @@ from src.reporting_schema.isocrstypes_v1_1 import CountryCodeType
 from src.reporting_schema.oecdcrstypes_v5_0 import (
     DocSpecType,
     OecdnameTypeEnumType,
-)
+) 
 
 __NAMESPACE__ = "urn:oecd:ties:crs:v2"
 

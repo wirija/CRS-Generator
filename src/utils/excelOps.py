@@ -16,7 +16,7 @@ FONT_FORMAT_HEADER_BOLD = Font(
     italic=False,
     size=14,
 )
-
+ 
 CELL_STYLE_YELLOW = PatternFill(
     patternType="solid",
     fgColor=COLOR_YELLOW,

@@ -11,7 +11,7 @@ class VALIDATION_RULES:
     ENUM_CRS = 'CRS'
     BLANK = 'Blank' # should be left blank for IRAS Reporting
 
-
+ 
 class MSGSPECS:
     SENDING_CO_IN = 'SendingCompanyIN'
     TRANS_COUNTRY = 'TransmittingCountry'
